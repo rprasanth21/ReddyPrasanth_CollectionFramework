@@ -1,0 +1,4 @@
+2020-03-05 22:43:01 INFO  App:17 - [1,2,3,hello,2.5]
+2020-03-05 22:43:01 INFO  App:20 - [2,3,hello]
+2020-03-05 22:43:01 INFO  App:22 - 2
+2020-03-05 22:43:01 INFO  App:23 - Index Out Of Bounds Exception Raised While Inserting an Element
